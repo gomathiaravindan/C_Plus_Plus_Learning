@@ -1,3 +1,8 @@
+## Given an array of integers print the result such that each value is equal to the procuts of all the elements of nums except array[i] without division operator.
+Sample case:nums = [1,2,3,4]
+Output=[24,12,8,6]
+
+
 #include<iostream>
 #include<cstdlib>
 using namespace std;
